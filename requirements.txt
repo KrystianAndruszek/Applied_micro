@@ -1,0 +1,8 @@
+plotdf
+scipy
+numpy
+pandas
+plotdf
+sympy
+IPython.core.interactiveshell
+matplotlib

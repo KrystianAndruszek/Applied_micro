@@ -1,0 +1,30 @@
+________________________________________________________________________________________________________________________________________________________________________
+
+                                STARTING OUT WITH PYTHON
+____________________________________________________________________________________
+____________________________________________________________________________________
+
+If you are new to python, it is better to start with Anaconda (or Miniconda), to avoid any mistakes caused by managing packages by yourself.
+
+____________________________________________________________________________________
+
+Tutorial on how to install Anaconda, for different OS's:
+
+ //    LINUX    //
+https://conda.io/docs/user-guide/install/linux.html
+
+ //   WINDOWS   //
+https://www.datacamp.com/community/tutorials/installing-anaconda-windows
+
+//    MACOSX   //
+https://www.datacamp.com/community/tutorials/installing-anaconda-mac-os-x
+
+____________________________________________________________________________________
+
+In order to start with python in jupyter follow this tutorial:
+
+https://www.kdnuggets.com/2018/05/jupyter-notebook-beginners-tutorial.html
+____________________________________________________________________________________
+
+GOOD LUCK & CODE AWAY!
+____________________________________________________________________________________
